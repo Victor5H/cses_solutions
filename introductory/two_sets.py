@@ -1,5 +1,6 @@
 n = int(input())
 sum = (n*(n+1))//2
+#if sum of first n numbers is not even
 if(sum%2!=0):
     print("NO")
     
